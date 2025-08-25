@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>This is my live update for the presentation!</li>
         </ol>
 
         <div className={styles.ctas}>
